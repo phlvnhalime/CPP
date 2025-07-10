@@ -12,7 +12,7 @@ This repository contains implementations for the first five C++ modules, each bu
 
 ## 📦 Module Breakdown
 
-### 🔰 [CPP00 - Basics of Object-Oriented Programming](./CPP00/)
+### 🔰 [CPP00 - Basics of Object-Oriented Programming](https://github.com/phlvnhalime/CPP00/blob/master/README.md)
 
 **Core Concepts:** Introduction to C++ syntax and basic OOP
 - **Classes & Objects** - First steps into OOP
