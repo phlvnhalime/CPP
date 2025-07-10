@@ -30,7 +30,7 @@ This repository contains implementations for the first five C++ modules, each bu
 
 ---
 
-### 🧠 [CPP01 - Memory Allocation, Pointers, References](./CPP01/)
+### 🧠 [CPP01 - Memory Allocation, Pointers, References](https://github.com/phlvnhalime/CPP01/blob/ac289c82e9a7b68357e3625414912cec6ea31665/README.md)
 
 **Core Concepts:** Advanced memory management and C++ specific features
 - **Dynamic Memory** - `new`/`delete` operators
@@ -49,7 +49,7 @@ This repository contains implementations for the first five C++ modules, each bu
 
 ---
 
-### ⚙️ [CPP02 - Operator Overloading & Orthodox Canonical Form](./CPP02/)
+### ⚙️ [CPP02 - Operator Overloading & Orthodox Canonical Form](https://github.com/phlvnhalime/CPP02/blob/master/README.md)
 
 **Core Concepts:** Making custom classes behave like built-in types
 - **Orthodox Canonical Form** - The "Big Four" (Constructor, Copy Constructor, Assignment Operator, Destructor)
@@ -68,7 +68,7 @@ This repository contains implementations for the first five C++ modules, each bu
 
 ---
 
-### 🏗️ [CPP03 - Inheritance](./CPP03/)
+### 🏗️ [CPP03 - Inheritance](https://github.com/phlvnhalime/CPP03/blob/master/README.md)
 
 **Core Concepts:** Code reuse and hierarchical relationships
 - **Class Inheritance** - "is-a" relationships
@@ -86,7 +86,7 @@ This repository contains implementations for the first five C++ modules, each bu
 
 ---
 
-### 🎭 [CPP04 - Subtype Polymorphism & Abstract Classes](./CPP04/)
+### 🎭 [CPP04 - Subtype Polymorphism & Abstract Classes](https://github.com/phlvnhalime/CPP04/blob/master/README.md)
 
 **Core Concepts:** Runtime polymorphism and advanced OOP patterns
 - **Virtual Functions** - Dynamic dispatch mechanism
