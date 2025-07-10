@@ -215,7 +215,7 @@ cpp-modules/
 
 ---
 
-**Author:** Halime M.  
+**Author:** Halime Pehlivan.  
 **School:** 42 Heilbronn  
 **Standard:** C++98  
 
