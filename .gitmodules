@@ -1,0 +1,15 @@
+[submodule "CPP00"]
+	path = CPP00
+	url = git@github.com:phlvnhalime/CPP00.git
+[submodule "CPP01"]
+	path = CPP01
+	url = git@github.com:phlvnhalime/CPP01.git
+[submodule "CPP02"]
+	path = CPP02
+	url = git@github.com:phlvnhalime/CPP02.git
+[submodule "CPP03"]
+	path = CPP03
+	url = git@github.com:phlvnhalime/CPP03.git
+[submodule "CPP04"]
+	path = CPP04
+	url = git@github.com:phlvnhalime/CPP04.git
